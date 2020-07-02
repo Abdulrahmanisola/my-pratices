@@ -1,0 +1,2 @@
+# my-pratices
+personal development
